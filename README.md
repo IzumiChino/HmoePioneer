@@ -1,6 +1,6 @@
-# HmoePioneer官方发布页面，软件正在完善中
+# HmoePioneer发布页面，软件正在完善中
 
-本软件是Hmoegirl(cyou站)官方直连软件，现已开放下载
+本软件是Hmoegirl(cyou站)直连软件，现已开放下载
 
 # GhosTCP
 GhosTCP is a program for Windows that protects the TCP connections from being interfered.  
