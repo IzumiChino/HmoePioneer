@@ -3,9 +3,12 @@
 HmoePioneer is a program made by [Hmoegirl.cyou](https://hmoegirl.cyou/Mainpage) for Windows that protects the TCP connections from being interfered.  
 
 ## Run as Client
-run HmoePioneer.exe to start the program
+
+run HmoePioneer.exe to start the program.
+
 ## Run as Service
-run startup.bat to install the service
+
+run startup.bat, then follow the tips to finish the installation.
 
 ## How to configure
 ```
