@@ -1,14 +1,14 @@
-# HmoePioneer发布页面，软件正在完善中
+# HmoePioneer
 
-本软件是Hmoegirl(cyou站)直连软件，现已开放下载
-
-# GhosTCP
-GhosTCP is a program for Windows that protects the TCP connections from being interfered.  
+HmoePioneer is a program made by [Hmoegirl.cyou](https://hmoegirl.cyou/Mainpage) for Windows that protects the TCP connections from being interfered.  
 
 ## Run as Client
-run tcpioneer.exe to start the program
+
+run HmoePioneer.exe to start the program.
+
 ## Run as Service
-run install.bat to install the service
+
+run startup.bat, then follow the tips to finish the installation.
 
 ## How to configure
 ```
