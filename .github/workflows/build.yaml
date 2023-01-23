@@ -18,6 +18,12 @@ jobs:
     - name: Package Application
       run: go build
 
+    - name: download WinDivert.dll
+      run: |
+        Invoke-WebRequest -v -o ./WinDivert.zip https://github.com/basil00/Divert/releases/download/v2.2.2/WinDivert-2.2.2-A.zip
+        Expand-Archive ./WinDivert.zip -DestinationPath ./
+        mv WinDivert-2.2.2-A/x64/WinDivert.dll ./
+
     - name: get config
       run: mv ./release/* ./
 
@@ -28,3 +34,5 @@ jobs:
           hmoepioneer.exe
           default.conf
           startup.bat
+          WinDivert.dll
+          WinDivert64.sys
