@@ -1,3 +1,8 @@
+# Notice
+We are sorry to inform all users that due to Izumi Chino's psychological problems and retsuakiko-sg's busy life, we cannot update HmoePioneer in time.
+
+
+
 # HmoePioneer
 
 HmoePioneer is a program made by [Hmoegirl.cyou](https://hmoegirl.cyou/Mainpage) for Windows that protects the TCP connections from being interfered.  
@@ -35,3 +40,4 @@ run startup.bat, then follow the tips to finish the installation.
 ## How to get the TTL
 tracert 8.8.8.8  
 set the ttl longer than the TTL to the node whose IP address is in your area and shorter than the TTL to the server.
+Ok
