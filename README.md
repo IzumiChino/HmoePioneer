@@ -1,7 +1,7 @@
 # Notice
 We are sorry to inform all users that due to Izumi Chino's psychological problems and retsuakiko-sg's busy life, we cannot update HmoePioneer in time.
 
-Latest:Izumi Chino has already dead by using Potassium Cyanide(KCN).The Project will be passed on by retsuakiko-sg and Izumi Chino's sister.
+### Latest:Izumi Chino has already dead by using Potassium Cyanide(KCN).The Project will be passed on by retsuakiko-sg and Izumi Chino's sister.
 
 
 
