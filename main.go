@@ -128,7 +128,7 @@ func main() {
 			log.Fatalf("installService(%s, %s): %v\n", serviceName, "", err)
 		}
 		log.Printf("Done\n")
-		cmd := exec.Command("pause")
+		exec.Command("pause")
 		return
 	}
 
@@ -138,7 +138,7 @@ func main() {
 			log.Fatalln("removeService:", err)
 		}
 		log.Printf("Done\n")
-		cmd := exec.Command("pause")
+		exec.Command("pause")
 		return
 	}
 
@@ -148,7 +148,7 @@ func main() {
 			log.Fatalln("startService:", err)
 		}
 		log.Printf("Done\n")
-		cmd := exec.Command("pause")
+		exec.Command("pause")
 		return
 	}
 
@@ -158,7 +158,7 @@ func main() {
 			log.Fatalln("stopService:", err)
 		}
 		log.Printf("Done\n")
-		cmd := exec.Command("pause")
+		exec.Command("pause")
 		return
 	}
 
@@ -173,7 +173,7 @@ func main() {
 		if err := winsvc.RunAsService(serviceName, StartService, StopService, false); err != nil {
 			log.Fatalf("svc.Run: %v\n", err)
 		}
-		cmd := exec.Command("pause")
+		exec.Command("pause")
 		return
 	}
 
