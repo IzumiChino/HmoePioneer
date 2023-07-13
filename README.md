@@ -1,7 +1,7 @@
 # Notice
 We are sorry to inform all users that due to Izumi Chino's psychological problems and retsuakiko-sg's busy life, we cannot update HmoePioneer in time.
 
-## HmoePioneer has moved to GitLab and Codeberg ,see our latest repositories : https://gitlab.com/RetsuAkiko-SG/HmoePioneer and https://codeberg.org/IzumiChino/HmoePioneer
+## HmoePioneer has moved to GitLab and Codeberg ,see our latest repositories : https://gitlab.com/akiko-chino-team/HmoePioneer and https://codeberg.org/IzumiChino/HmoePioneer
 ### Miharichan has replaced Izumi Chino
 
 # HmoePioneer
